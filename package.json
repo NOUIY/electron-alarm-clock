@@ -32,7 +32,7 @@
     "grunt-electron-installer": "^2.1.0"
   },
   "dependencies": {
-    "moment": "^2.21.0",
+    "moment": "^2.29.1",
     "node-notifier": "^5.2.1"
   }
 }
