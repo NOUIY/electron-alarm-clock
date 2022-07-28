@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "moment": "^2.21.0",
-    "node-notifier": "^5.2.1"
+    "node-notifier": "^5.4.5"
   }
 }
